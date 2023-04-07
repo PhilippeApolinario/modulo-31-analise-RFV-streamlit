@@ -1,10 +1,13 @@
-# Título do projeto
+# Análise Referência, Frequência e valor (RFV)
 
 Um simples resumo do uso/propósito do projeto.
 
 ## Descrição do projeto
 
 Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
+
+## Link da aplicação
+https://analise-rfv-streamlit.onrender.com/
 
 ## Utilização
 
@@ -37,8 +40,8 @@ comando para rodar se o programa tiver uma informação de ajuda
 
 Nomes dos desenvolvedores do projeto e informação para entrar em contato.
 
-ex. Lucas Serra  
-ex. [@LucasSerra](https://www.linkedin.com/in/lucasserra03/)
+Philippe  
+[@PhilippeApolinario](https://www.linkedin.com/in/xxxx/)
 
 ## Histórico de versões.
 

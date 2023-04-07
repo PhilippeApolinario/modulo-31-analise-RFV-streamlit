@@ -1,4 +1,4 @@
-# Análise Referência, Frequência e valor (RFV)
+# Análise Recência, Frequência e valor (RFV)
 
 Um simples resumo do uso/propósito do projeto.
 

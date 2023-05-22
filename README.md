@@ -35,7 +35,7 @@ https://analise-rfv-streamlit.onrender.com/
  1 - Baixe o projeto  
  2 - Descompacte o arquivo  
  3 - Clique no link do webapp  
- 4 - No webapp, vá em Browse files e procure no diretório do projeto pelos arquivos .csv ma pasta input  
+ 4 - No webapp, vá em Browse files e procure no diretório do projeto pelos arquivos .csv na pasta input  
    
  https://user-images.githubusercontent.com/100958973/233180477-17347653-ac07-44b7-9e3e-18c724b54fdf.mov
 

@@ -1,4 +1,4 @@
-# Análise Recência, Frequência e valor (RFV)
+# Modelo de Classificação RFV com Base em Padrões de Compra e Criação de um Webapp com Streamlit
 
 ### 1. Entendimento do Problema:
 O desafio enfrentado é otimizar a personalização de conteúdo e fortalecer a retenção de clientes. A necessidade de compreender e responder de forma eficaz ao comportamento dos clientes motivou a busca por uma abordagem estratégica que pudesse segmentar os consumidores com base em padrões de compra, facilitando a implementação de ações de marketing e CRM mais eficientes.
